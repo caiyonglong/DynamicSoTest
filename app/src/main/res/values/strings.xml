@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NdkTest</string>
+    <string name="load_jni_text">Load Jni Text</string>
+</resources>
